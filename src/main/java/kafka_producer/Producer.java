@@ -1,4 +1,4 @@
-package kafka_producer.kafka_producer;
+package kafka_producer;
 
 import java.io.UnsupportedEncodingException;
 import java.sql.Timestamp;
